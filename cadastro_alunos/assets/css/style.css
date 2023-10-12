@@ -89,3 +89,134 @@ strong {
     background-color: black;
     height: 3px;
 }
+
+/*Form de Cadastro de Alunos*/
+
+.main-div-title {
+    padding: 0.25rem 1.25rem;
+}
+
+.main-title {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    font-size: 25px;
+}
+
+.main-span-text {
+    font-size: 1.75rem;
+}
+
+.main-form {
+    background-color: #5A707C;
+    color: white;
+    padding: 1.25rem;
+}
+
+.form-main-div {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 1.25rem;
+}
+
+.div-input {
+    margin-bottom: 1rem;
+}
+
+@media (min-width: 48em) {
+    .div-input {
+        margin-right: 0.5rem;
+        margin-bottom: 0;
+    }
+}
+
+.label-input {
+    display: block;
+    margin-bottom: 0.5rem;
+    font-size: 0.875rem;
+    font-weight: bold;
+    color: white;
+}
+
+.input-group-pp {
+    width: 8rem;
+    height: 2.5rem;
+    padding: 0.75rem 1rem;
+    font-size: 0.875rem;
+    line-height: 1.25rem;
+    color: black;
+    border: 1px solid #000000;
+    border-radius: 0.25rem;
+    box-shadow: 0 0 0.5rem rgba(0, 0, 0, 0.1);
+    appearance: none;
+    outline: none;
+}
+
+.input-group-pp:focus {
+    box-shadow: 0 0 0.5rem rgba(0, 0, 0, 0.2);
+}
+
+.input-group-md {
+    width: 12rem;
+    height: 2.5rem;
+    padding: 0.75rem 1rem;
+    font-size: 0.875rem;
+    line-height: 1.25rem;
+    color: black;
+    border: 1px solid #000000;
+    border-radius: 0.25rem;
+    box-shadow: 0 0 0.5rem rgba(0, 0, 0, 0.1);
+    appearance: none;
+    outline: none;
+
+}
+
+.input-group-md:focus {
+    box-shadow: 0 0 0.5rem rgba(0, 0, 0, 0.2);
+}
+
+.input-group-gg {
+    width: 24rem;
+    height: 2.5rem;
+    padding: 0.75rem 1rem;
+    font-size: 0.875rem;
+    line-height: 1.25rem;
+    color: black;
+    border: 1px solid #000000;
+    border-radius: 0.25rem;
+    box-shadow: 0 0 0.5rem rgba(0, 0, 0, 0.1);
+    appearance: none;
+    outline: none;
+}
+
+.input-group-gg:focus {
+    box-shadow: 0 0 0.5rem rgba(0, 0, 0, 0.2);
+}
+
+.btn-search-cep {
+    height: 2.5rem;
+    margin-top: 1.75rem;
+}
+
+.div-btn-salvar {
+    display: flex;
+    justify-content: center;
+    margin-top: 25px;
+}
+
+.btn-salvar-aluno {
+    border: 3px solid green;
+    border-radius: 5px;
+    font-size: 20px;
+    padding: 10px;
+    background-color: limegreen !important;
+    transition: all 0.3s ease;
+}
+
+.btn-salvar-aluno:hover {
+    border-radius: 15px;
+    scale: 1.2;
+    background-color: green;
+}
