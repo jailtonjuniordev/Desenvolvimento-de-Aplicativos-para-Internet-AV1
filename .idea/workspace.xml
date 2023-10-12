@@ -1,7 +1,185 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b2acaf3f-62ca-4a0f-ab95-da44695fdd44" name="Changes" comment="FIX: root folder is now in english">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2WfSPdhzGEaBslaA43KUBgQuL8O" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "D:/Faculdade/Desenvolvimento de Aplicações para Internet 1NA/Desenvolvimento-de-Aplicativos-para-Internet-AV1",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Faculdade\Desenvolvimento de Aplicações para Internet 1NA\Desenvolvimento-de-Aplicativos-para-Internet-AV1\cadastro_alunos\pages" />
+      <recent name="D:\Faculdade\Desenvolvimento de Aplicações para Internet 1NA\Desenvolvimento-de-Aplicativos-para-Internet-AV1\cadastro_alunos\assets\css" />
+      <recent name="D:\Faculdade\Desenvolvimento de Aplicações para Internet 1NA\Desenvolvimento-de-Aplicativos-para-Internet-AV1\cadastro_alunos\assets\js" />
+      <recent name="D:\Faculdade\Desenvolvimento de Aplicações para Internet 1NA\Desenvolvimento-de-Aplicativos-para-Internet-AV1\cadastro_alunos" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b2acaf3f-62ca-4a0f-ab95-da44695fdd44" name="Changes" comment="" />
+      <created>1697122119753</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1697122119753</updated>
+      <workItem from="1697122122203" duration="2524000" />
+    </task>
+    <task id="LOCAL-00001" summary="Initial Commit">
+      <option name="closed" value="true" />
+      <created>1697122288610</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1697122288610</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Initial Commit">
+      <option name="closed" value="true" />
+      <created>1697122728876</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1697122728876</updated>
+    </task>
+    <task id="LOCAL-00003" summary="ARCHITECTURE ADD: Initial Architecture">
+      <option name="closed" value="true" />
+      <created>1697123322422</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1697123322422</updated>
+    </task>
+    <task id="LOCAL-00004" summary="FEAT ADD: Home Page &amp; CSS">
+      <option name="closed" value="true" />
+      <created>1697123546418</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1697123546418</updated>
+    </task>
+    <task id="LOCAL-00005" summary="LINKS FIX: Home Page links fixed">
+      <option name="closed" value="true" />
+      <created>1697123676972</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1697123676972</updated>
+    </task>
+    <task id="LOCAL-00006" summary="FEAT ADD: Register Student, CSS &amp; JS">
+      <option name="closed" value="true" />
+      <created>1697123834664</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1697123834664</updated>
+    </task>
+    <task id="LOCAL-00007" summary="FEAT ADD: About us &amp; CSS">
+      <option name="closed" value="true" />
+      <created>1697123946884</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1697123946884</updated>
+    </task>
+    <task id="LOCAL-00008" summary="FIX: files names placed in english">
+      <option name="closed" value="true" />
+      <created>1697124084389</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1697124084390</updated>
+    </task>
+    <task id="LOCAL-00009" summary="FIX: files names placed in english &amp; Link fix">
+      <option name="closed" value="true" />
+      <created>1697124249691</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1697124249691</updated>
+    </task>
+    <task id="LOCAL-00010" summary="FEAT ADD: Students table page, CSS &amp; JS">
+      <option name="closed" value="true" />
+      <created>1697124290729</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1697124290729</updated>
+    </task>
+    <task id="LOCAL-00011" summary="FIX: root folder is now in english">
+      <option name="closed" value="true" />
+      <created>1697124349087</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1697124349087</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Initial Commit" />
+    <MESSAGE value="ARCHITECTURE ADD: Initial Architecture" />
+    <MESSAGE value="FEAT ADD: Home Page &amp; CSS" />
+    <MESSAGE value="LINKS FIX: Home Page links fixed" />
+    <MESSAGE value="FEAT ADD: Register Student, CSS &amp; JS" />
+    <MESSAGE value="FEAT ADD: About us &amp; CSS" />
+    <MESSAGE value="FIX: files names placed in english" />
+    <MESSAGE value="FIX: files names placed in english &amp; Link fix" />
+    <MESSAGE value="FEAT ADD: Students table page, CSS &amp; JS" />
+    <MESSAGE value="FIX: root folder is now in english" />
+    <option name="LAST_COMMIT_MESSAGE" value="FIX: root folder is now in english" />
   </component>
 </project>
