@@ -22,4 +22,4 @@ Você pode visualizar o protótipo do site no Figma usando o seguinte link:
    git clone https://github.com/jailtonjuniordev/Desenvolvimento-de-Aplicativos-para-Internet-AV1.git
    ```
 
-2. Abra o arquivo `index.html` em seu navegador web para visualizar o site.
+2. Abra o arquivo `index.html` atráves do Live Server do VSCode.
