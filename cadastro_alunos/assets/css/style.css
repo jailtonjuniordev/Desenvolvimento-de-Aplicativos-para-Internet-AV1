@@ -231,3 +231,28 @@ strong {
 .txt-p {
     margin-bottom: 15px;
 }
+
+/* Tabela de Exibição de Alunos salvos */
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+}
+
+th, td {
+    border: 1px solid #ddd;
+    padding: 10px;
+    text-align: left;
+}
+
+th {
+    background-color: #f2f2f2;
+}
+
+.title-tabela {
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    font-size: 30px;
+}

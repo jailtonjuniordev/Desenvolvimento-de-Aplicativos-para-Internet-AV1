@@ -53,3 +53,44 @@ function salvarAluno() {
 
     alert("Aluno adicionado com sucesso!");
 }
+
+function popularTabela() {
+    let tabela = document.querySelector("table tbody");
+    let alunos = JSON.parse(localStorage.getItem("alunos")) || [];
+
+    alunos.forEach(function(aluno, index) {
+        let newRow = tabela.insertRow();
+        newRow.insertCell().textContent = aluno.matricula;
+        newRow.insertCell().textContent = aluno.nomeCompleto;
+        newRow.insertCell().textContent = aluno.etapaEnsino;
+        newRow.insertCell().textContent = aluno.serie;
+        newRow.insertCell().textContent = aluno.endereco.cep;
+
+        let cellAcao = newRow.insertCell();
+        let icon = document.createElement("i");
+        icon.classList.add("fas", "fa-trash-alt");
+        icon.style.cursor = "pointer";
+        icon.addEventListener("click", function() {
+            excluirAluno(index);
+        });
+        cellAcao.appendChild(icon);
+    });
+}
+
+function excluirAluno(index) {
+    let alunos = JSON.parse(localStorage.getItem("alunos")) || [];
+
+    if (index >= 0 && index < alunos.length) {
+        alunos.splice(index, 1);
+
+        localStorage.setItem("alunos", JSON.stringify(alunos));
+
+        alert("Aluno excluído com sucesso!");
+
+        location.reload();
+    }
+}
+
+document.addEventListener("DOMContentLoaded", function() {
+    popularTabela();
+});
