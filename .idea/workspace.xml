@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b2acaf3f-62ca-4a0f-ab95-da44695fdd44" name="Changes" comment="FIX: root folder is now in english">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="b2acaf3f-62ca-4a0f-ab95-da44695fdd44" name="Changes" comment="FIX: README.md" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -61,7 +57,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1697122119753</updated>
-      <workItem from="1697122122203" duration="2524000" />
+      <workItem from="1697122122203" duration="2831000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <option name="closed" value="true" />
@@ -151,7 +147,15 @@
       <option name="project" value="LOCAL" />
       <updated>1697124349087</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="FIX: README.md">
+      <option name="closed" value="true" />
+      <created>1697124885306</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1697124885306</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -180,6 +184,7 @@
     <MESSAGE value="FIX: files names placed in english &amp; Link fix" />
     <MESSAGE value="FEAT ADD: Students table page, CSS &amp; JS" />
     <MESSAGE value="FIX: root folder is now in english" />
-    <option name="LAST_COMMIT_MESSAGE" value="FIX: root folder is now in english" />
+    <MESSAGE value="FIX: README.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="FIX: README.md" />
   </component>
 </project>
