@@ -53,7 +53,6 @@ footer {
     bottom: 0;
 }
 
-
 /* Home */
 
 .div-boas-vindas {
@@ -219,4 +218,16 @@ strong {
     border-radius: 15px;
     scale: 1.2;
     background-color: green;
+}
+
+/* Sobre */
+
+.txt-sobre-nos {
+    text-align: justify;
+    padding: 20px;
+    margin-top: -20px;
+}
+
+.txt-p {
+    margin-bottom: 15px;
 }
